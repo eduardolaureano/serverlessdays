@@ -2,7 +2,7 @@
 
 ## Contact me or the team
 
-* [@edlaurelaureano](https://twitter.com/eduardolaureano)
+* [@eduardolaureano](https://twitter.com/eduardolaureano)
 * [@AzureFunctions](https://twitter.com/AzureFunctions)
 
 ## Azure Serverless resources
@@ -24,3 +24,4 @@
 * [aka.ms/TryFunctions](https://aka.ms/TryFunctions)
 
 ## Thanks for attending the session and stopping by :-D
+
