@@ -2,7 +2,6 @@
 
 ## Contact me or the team
 
-* eduardo.laureano@microsoft.com
 * [@edlaurelaureano](https://twitter.com/eduardolaureano)
 * [@AzureFunctions](https://twitter.com/AzureFunctions)
 
