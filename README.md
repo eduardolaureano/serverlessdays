@@ -23,5 +23,9 @@
 * [aka.ms/AppServiceBlog](https://aka.ms/AppServiceBlog)
 * [aka.ms/TryFunctions](https://aka.ms/TryFunctions)
 
+## Use Cases
+* [Technical use cases](https://microsoft.github.io/techcasestudies/#technology=Azure%20Functions&sortBy=featured)
+* [Customer stories](https://azure.microsoft.com/en-us/case-studies/?service=functions) 
+
 ## Thanks for attending the session and stopping by :-D
 
